@@ -14,7 +14,7 @@ global.versi = '1.1.'
 global.keyopenai = "XlmmVpWzu6r2jRu" //masukkan apikey kamu 
 global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
-global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
+global.thumbnail = fs.readFileSync("./data/image/1729674414954.jpg")
 global.ig = '--'
 global.yt = 'YasuCh'
 global.ttowner = ''
